@@ -1,0 +1,29 @@
+/*body{
+    background-image: url(leon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover  ;
+}
+
+
+h1{
+    background-color: blueviolet;
+    padding: 20px;
+    border-color: red;
+    border: 5px;
+    border-style: solid;
+    font-size: 28px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 100px;
+    
+}
+
+/*div{
+    background-color: grey;
+    width: 50%;
+    height: 75%;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}

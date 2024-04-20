@@ -1,0 +1,15 @@
+.titulo{                    /*chamando class*/
+    color: red;
+    font-size: 28px;
+    text-align: center;
+
+}
+
+h1{
+    color: hsl(0%, 0%, 0%);
+
+}
+
+#titulo2{                 /*chamando id */
+    color: blue;
+}
